@@ -1,5 +1,5 @@
 # **Project 1 - Focaccia Bread Calculator**
-A C++ program that calculates ingredient quantities and total cost for making focaccia bread based on user input. Uses unit conversions, rounding logic, and formatted output to generate a complete shopping list.
+A C++ program that calculates ingredient quantities and total cost for making focaccia bread based on user input. Uses unit conversions, rounding logic, and formatted output to generate a complete shopping list. 
 ## **Overview**
 This program prompts the user for the number of people they need to serve and determines:
 - The number of focaccia loaves required (1 loaf per 4 people, rounded up)
